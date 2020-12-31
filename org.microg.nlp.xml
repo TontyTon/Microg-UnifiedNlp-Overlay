@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <privapp-permissions package="org.microg.nlp">
+        <permission name="android.permission.INSTALL_LOCATION_PROVIDER"/>
+        <permission name="android.permission.ACCESS_COARSE_UPDATES"/>
+        <permission name="android.permission.ACCESS_COARSE_LOCATION"/>
+        <permission name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+        <permission name="org.microg.permission.FORCE_COARSE_LOCATION"/>
+        <permission name="com.android.settings.INJECT_SETTINGS"/>
+        <permission name="android.permission.ACCESS_FINE_LOCATION"/>
+    </privapp-permissions>
+</permissions>
