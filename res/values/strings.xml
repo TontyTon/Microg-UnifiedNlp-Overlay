@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config_geocoderProviderPackageName">org.microg.nlp</string>
+    <string name="config_networkLocationProviderPackageName">org.microg.nlp</string>
+    <string name="config_osNetworkLocationProviderPackageName">org.microg.nlp</string>
+    <string name="config_regionNetworkLocationProviderPackageName">org.microg.nlp</string>
+    <string name="config_hardwareFlpPackageName">org.microg.nlp</string>
+    <string name="config_fusedLocationProviderPackageName">org.microg.nlp</string>
+    <string name="config_defaultNetworkRecommendationProviderPackage">org.microg.nlp</string>
+</resources>
